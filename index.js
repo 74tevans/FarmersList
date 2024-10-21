@@ -2,13 +2,7 @@
 const Product = require('./Product.js');
 const Cart = require('./Cart.js');
 const Customer = require('./Customer.js');
-
-
-
-
-
-
-
+const Auth = require('./Auth.js');
 
 // DO NOT EDIT BELOW THIS LINE
 try {
